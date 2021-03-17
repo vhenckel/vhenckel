@@ -8,21 +8,29 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor@henckel.com.br)](mailto:vitor@henckel.com.br)
 
 <p align="center">
-  <a href="#page_with_curl-sobre">Sobre</a>
+  <a href="#page_with_curl-about">About</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-tecnologias">Tecnologias</a>
+  <a href="#hammer-technologies">Technologies</a>
 </p>
 
-## :page_with_curl: Sobre
+## :page_with_curl: About
 
-Trabalho com desenvolvimento web desde 2010 e desde então sempre mantive projetos que pudessem ajudar de alguma forma a população.
-Meu propósito sempre foi de usar meu conhecimento para tentar resolver alguns problemas do dia a dia.
-Em 2012 onde a internet em celulares ainda não era tão comum no Brasil (ao menos no RS!), lancei vários robôs por SMS que realizavam algumas tarefas como enviar um email, buscar um táxi ou receber notícias específicas.
-Em 2016 criei um bot que faz rastreamento de encomendas e um outro que envia alertas da Defesa Civil do RS. Participo também do projeto MAB (Mini Agência do Bem) que cria sites e sistemas para ONG's e Hospitais.
-Agora fazendo parte da O2OBOTS, ajudo a desenvolver um chatbot que leva alta tecnologia e inteligência artificial para Corretoras e Corretores de seguros no Brasil, reduzindo e facilitando seu trabalho.
+<p>
+  I have been working with web development since 2010 and since then I have always maintained projects that could help the population in some way. My purpose has always been to use my knowledge to try to solve some day-to-day problems.
+</p>
+<p>
+In 2012, when the internet on cell phones was still not so common in Brazil (at least in RS!), I launched several SMS robots that performed some tasks such as sending an email, fetching a taxi or receiving specific news. In 2016 I created a bot that tracks orders and another one that sends alerts from the Civil Defense of RS. 
+</p>
+<p>
+I also participate in the MAB project (Mini Agência do Bem) that creates websites and systems for NGOs and Hospitals. 
+</p>
+<p>
+I'm one of the founders, CTO and sole software engineer for the startup O2OBOTS.
+I helped design and develop our entire platform, which consists of hybrid chatbots (with artificial intelligence and logical flows) for the insurance and credit industry.<br>
+Our robots chat with users, collect information and sell the product online even when possible, within the app itself. When the product is not allowed to be sold online due to Brazilian legislation, the lead and its information are passed on to the responsible sales sector.
+</p>
 
-
-## :hammer: Tecnologias
+## :hammer: Technologies
 Javascript, Typescript, ES*, React.js, Node.js, PHP and others.
 
 > :octocat: [https://vitor.henckel.com.br](https://vitor.henckel.com.br)
