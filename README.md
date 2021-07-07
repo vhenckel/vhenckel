@@ -1,19 +1,21 @@
-# :man_technologist: Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vhenckel)](https://github.com/vhenckel)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vhenckel)](https://dev.to/vhenckel)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorhenckel/)](https://www.linkedin.com/in/vitorhenckel/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Vitor_Henckel)](https://twitter.com/Vitor_Henckel)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551991522008&text=Olá!)](https://api.whatsapp.com/send?phone=5551991522008&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitor@henckel.com.br)](mailto:vitor@henckel.com.br)
+##  Hi, I'm Vitor Henckel!
 
-<p align="center">
-  <a href="#page_with_curl-about">About</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-technologies">Technologies</a>
-</p>
+This is my portfolio. [Portfolio](https://vitor.henckel.com.br)
 
-## :page_with_curl: About
+💻  &nbsp; Programming: <br/>
+
+
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![Adonisjs](https://img.shields.io/badge/-Adonisjs-220052?style=flat&logoColor=fff&logo=adonisjs)&nbsp;
+![Expressjs](https://img.shields.io/badge/-Express-ffffff?style=flat&logoColor=000&logo=express)&nbsp;
+![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-099cec?style=flat&logoColor=fff&logo=docker)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logoColor=fff&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
 
 <p>
   I have been working with web development since 2010 and since then I have always maintained projects that could help the population in some way. My purpose has always been to use my knowledge to try to solve some day-to-day problems.
@@ -30,7 +32,13 @@ I helped design and develop our entire platform, which consists of hybrid chatbo
 Our robots chat with users, collect information and sell the product online even when possible, within the app itself. When the product is not allowed to be sold online due to Brazilian legislation, the lead and its information are passed on to the responsible sales sector.
 </p>
 
-## :hammer: Technologies
-Javascript, Typescript, ES*, React.js, Node.js, PHP and others.
+## Follow me, Let's talk, get some coffee.
 
-> :octocat: [https://vitor.henckel.com.br](https://vitor.henckel.com.br)
+<p align="center">
+<a href="https://twitter.com/Vitor_Henckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Vitor_Henckel" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/vitorhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vitorhenckel" height="20" width="20" /></a>
+<a href="https://fb.com/vitorhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vitorhenckel" height="20" width="20" /></a>
+<a href="https://www.instagram.com/vitorhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vitorhenckel" height="20" width="20" /></a>
+<a href="https://wa.me/555191522008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="vitorhenckel" height="20" width="20" /></a>
+<a href="https://dev.to/vhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vitorhenckel" height="20" width="20" /></a>
+</p>
