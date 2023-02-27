@@ -27,7 +27,7 @@ In 2012, when the internet on cell phones was still not so common in Brazil (at 
 I also participate in the MAB project (Mini Agência do Bem) that creates websites and systems for NGOs and Hospitals. 
 </p>
 <p>
-I'm one of the founders, CTO and sole software engineer for the startup O2OBOTS.
+I'm one of the founders, CTO and software engineer for the startup O2OBOTS.
 I helped design and develop our entire platform, which consists of hybrid chatbots (with artificial intelligence and logical flows) for the insurance and credit industry.<br>
 Our robots chat with users, collect information and sell the product online even when possible, within the app itself. When the product is not allowed to be sold online due to Brazilian legislation, the lead and its information are passed on to the responsible sales sector.
 </p>
@@ -39,6 +39,6 @@ Our robots chat with users, collect information and sell the product online even
 <a href="https://www.linkedin.com/in/vitorhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vitorhenckel" height="20" width="20" /></a>
 <a href="https://fb.com/vitorhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vitorhenckel" height="20" width="20" /></a>
 <a href="https://www.instagram.com/vitorhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vitorhenckel" height="20" width="20" /></a>
-<a href="https://wa.me/555191522008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="vitorhenckel" height="20" width="20" /></a>
+<a href="https://wa.me/5548992074276" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="vitorhenckel" height="20" width="20" /></a>
 <a href="https://dev.to/vhenckel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vitorhenckel" height="20" width="20" /></a>
 </p>
