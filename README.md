@@ -18,18 +18,13 @@ This is my portfolio. [Portfolio](https://vitor.henckel.com.br)
 ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
 
 <p>
-  I have been working with web development since 2010 and since then I have always maintained projects that could help the population in some way. My purpose has always been to use my knowledge to try to solve some day-to-day problems.
+I'm a software engineer with over 10 years of experience in web development, and my passion lies in finding creative solutions to real-world problems. Since 2010, I have been working on projects that aim to improve people's lives, utilizing my technology skills to create useful and innovative tools.
 </p>
 <p>
-In 2012, when the internet on cell phones was still not so common in Brazil (at least in RS!), I launched several SMS robots that performed some tasks such as sending an email, fetching a taxi or receiving specific news. In 2016 I created a bot that tracks orders and another one that sends alerts from the Civil Defense of RS. 
+Over the years, I have launched several SMS robots that performed tasks such as sending emails, finding taxis, and providing news at a time when mobile internet was not yet widely available in Brazil. In 2016, I developed a parcel tracking bot for the Brazilian Postal Service and another bot that sent alerts from the Civil Defense agency in the state of Rio Grande do Sul. Additionally, I am an active contributor to NASA's open source software projects and participate in the MAB project, which creates websites and systems for NGOs and hospitals.
 </p>
 <p>
-I also participate in the MAB project (Mini Agência do Bem) that creates websites and systems for NGOs and Hospitals. 
-</p>
-<p>
-I'm one of the founders, CTO and software engineer for the startup O2OBOTS.
-I helped design and develop our entire platform, which consists of hybrid chatbots (with artificial intelligence and logical flows) for the insurance and credit industry.<br>
-Our robots chat with users, collect information and sell the product online even when possible, within the app itself. When the product is not allowed to be sold online due to Brazilian legislation, the lead and its information are passed on to the responsible sales sector.
+As a co-founder of the startup O2OBOTS, I was the sole software engineer for four years and played a key role in developing a platform for hybrid chatbots in the insurance and credit sector. My work involved conceiving and developing the platform, which combines artificial intelligence and logical flows to create highly effective chatbots. My goal is always to create solutions that add value and make people's lives easier.
 </p>
 
 ## Follow me, Let's talk, get some coffee.
