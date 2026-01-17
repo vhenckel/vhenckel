@@ -18,7 +18,7 @@ This is my portfolio. [Portfolio](https://vitor.henckel.com.br)
 ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
 
 <p>
-I'm a software engineer with over 10 years of experience in web development, and my passion lies in finding creative solutions to real-world problems. Since 2010, I have been working on projects that aim to improve people's lives, utilizing my technology skills to create useful and innovative tools.
+I'm a software engineer with over 15 years of experience in web development, and my passion lies in finding creative solutions to real-world problems. Since 2010, I have been working on projects that aim to improve people's lives, utilizing my technology skills to create useful and innovative tools.
 </p>
 <p>
 Over the years, I have launched several SMS robots that performed tasks such as sending emails, finding taxis, and providing news at a time when mobile internet was not yet widely available in Brazil. In 2016, I developed a parcel tracking bot for the Brazilian Postal Service and another bot that sent alerts from the Civil Defense agency in the state of Rio Grande do Sul. Additionally, I am an active contributor to NASA's open source software projects and participate in the MAB project, which creates websites and systems for NGOs and hospitals.
